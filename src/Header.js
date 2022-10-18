@@ -11,9 +11,10 @@ function Header() {
             <PersonIcon fontSize = "large" className='header_icon'/>
         </IconButton>
 
+
         <img
             className='header_logo'
-            src='../Tinder_logo_PNG6.png'
+            src='../compaLogo.png'
             alt =''
         />
 
