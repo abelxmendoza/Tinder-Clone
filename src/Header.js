@@ -12,9 +12,10 @@ function Header() {
         </IconButton>
 
 
+
         <img
             className='header_logo'
-            src='../compaLogo.png'
+            src='../compasLogo2.png'
             alt =''
         />
 
