@@ -118,10 +118,8 @@ function TinderCards() {
         name: 'Elon Musk',
         imgUrl: 'https://i.insider.com/551705a769bedda110343a79?width=1080&format=jpeg',
       },
-      {
-        name: 'Alexa Demie',
-        imgUrl: 'https://www.instyle.com/thmb/WcaeCGa42RGzilmO3cc52qDjOEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/112019-alexa-demie-euphoria-embed-2000-382817cd2bff4e41906813070ab95a69.jpg',
-      },
+    
+
       {
         name: 'Johnny Depp',
         imgUrl: 'https://akns-images.eonline.com/eol_images/Entire_Site/2015114/rs_634x835-151204105741-634-johnny-depp-21-jump-street.jpg?fit=around%7C776:1023&output-quality=90&crop=776:1023;center,top',
